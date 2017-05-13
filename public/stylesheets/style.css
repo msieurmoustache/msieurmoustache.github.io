@@ -4,7 +4,8 @@ li {
 }
 
 nav {
-  width: 100%;
+  width:90%;
+  margin: auto;
   height:15%;
 }
 
@@ -29,6 +30,7 @@ nav a {
 
 body {
   background-color:lightgrey;
+  font: 14px;
 }
 
 main {
